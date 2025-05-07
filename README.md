@@ -1,5 +1,5 @@
 # structure
-Kind of a reminder for myself for learning how to structure Go programs.
+Briefcase for well-structured Golang programs.
 
 ## Resources
 * [go.dev/doc/modules/layout](https://go.dev/doc/modules/layout) - Official Go documentation for module layout
